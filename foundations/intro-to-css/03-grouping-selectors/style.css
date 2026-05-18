@@ -1,1 +1,11 @@
-/* Add CSS Styling */
+.actone ,
+.acttwo{
+    font-size: 50px;
+}
+.actone{
+    background-color: black;
+    color :white;
+}
+.acttwo{
+    background-color: yellow;
+}
